@@ -28,6 +28,11 @@ Weather conditions have long been recognized as a potential risk factor in aviat
 ## Data Sourcing
 Explain where the data is gotten from and describe the tables 
 
+## Data Cleaning
+The two data set was loaded into power query through microsoft excel. 
+- There are some empty cell which was replaced with unspecified.
+- The data type of each column was change were necessary
+
 ## Data Modeling
 Data modeling is a critical step in preparing the dataset for analysis, ensuring that the data is structured in a way that facilitates meaningful insights and efficient querying. In this project, we will create a relational data model that combines the airplane crashes dataset with the weather data and incorporates a Date table to support time-based analysis.
 There are three(3) tables namely;
