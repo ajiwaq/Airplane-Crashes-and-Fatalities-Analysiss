@@ -1,7 +1,7 @@
 # Airplane-Crashes-and-Fatalities-Analysiss
 ## Airplane-Crashes-and-Fatalities-Analysis
 
-##Background/Introduction
+## Background/Introduction
 The aviation industry plays a crucial role in global transportation, connecting people and goods across the world. However, airplane crashes remain a significant concern due to their devastating impact on human lives and the industry's reputation. Understanding the factors contributing to airplane crashes is essential for improving safety measures and reducing the risk of accidents.
 
 Weather conditions have been identified as one of the critical factors influencing airplane operations and potentially contributing to crashes. Adverse weather conditions, such as storms, fog, and strong winds, can pose challenges to pilots, affecting visibility, maneuverability, and overall flight safety.
