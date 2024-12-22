@@ -41,7 +41,7 @@ There are three(3) tables namely;
 - Date Table: A separate table containing a comprehensive list of dates to support time-based analysis.
 
 ## Data Analysis and Visualization.
-![](air crashes1.png)
+![](aircrashes1.png)
 
 From the Dashboard, It is observed that 
 INSIGHT
