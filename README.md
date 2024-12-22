@@ -51,7 +51,8 @@ INSIGHT
   - Mt. Osutaka near Ueno Village, Japan, and Taipei, Taiwan, have also experienced notable fatalities from airplane accidents.
   - Moscow, Russia, and near Charkhi Dadri, India, report a considerable number of fatalities, emphasizing regional risks.
   - Tripoli, Libya, and France have recorded significant fatalities, highlighting the importance of aviation safety in these areas.
- 
+
+ ![](aircrashes3.png)
 - How do fatalities vary by weather conditions?
 -The visualization shows the total number of fatalities associated with airplane crashes under different weather conditions.
   - The visualization provides valuable insights into the relationship between weather conditions and airplane crashes, with various weather categories contributing to fatalities. Understanding these patterns can help identify weather-related risks and inform decision-making processes to enhance aviation safety measures, improve pilot training, and develop advanced weather monitoring systems to mitigate the impact of adverse weather conditions on flight safety.
@@ -69,13 +70,12 @@ Military
   - Air France: Air France has reported a considerable number of fatalities, emphasizing the importance of safety measures and protocols for commercial airlines.
 American Airlines:
   - American Airlines has recorded fatalities, highlighting the need for continuous efforts to improve aviation safety and reduce risks in commercial aviation.
-
 - How many fatalities occurred at each location?
   - Moscow, Russia (16): Significant fatalities, highlighting risks in this region.
   - Taipei, Taiwan (6): Notable fatalities, indicating challenges in this area.
   -  Tripoli, Libya (4): Considerable fatalities, emphasizing safety concerns.
   - Tenerife, Canary Islands (3): Reported fatalities, suggesting risks in this location.
-        
+
 - How many fatalities were associated with each weather condition?
   - Mainly Clear (175): Associated with fatalities, suggesting potential risks even in clear conditions.
   - Cloudy (167): Notable fatalities, indicating challenges in cloudy weather.  
@@ -94,7 +94,10 @@ Air France (72): Considerable fatalities, emphasizing the importance of safety m
 United Airlines (44): Fatalities reported, highlighting the need for continuous safety improvements.
 Pan America World Airways (41): Reported fatalities, suggesting challenges in this airline's operations.
 
-
+Other Visualisations;
+![](aircrashes2.png)
+![](aircrashes4.png)
+![](aircrashes5.png) 
  
  ## Recommendation
  - Enhance safety protocols and monitoring systems in high-risk locations such as Moscow, Taipei, and Tripoli to mitigate potential risks and improve aviation safety.
